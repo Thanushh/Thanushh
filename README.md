@@ -1,6 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.svg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Thanush</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+[![MasterHead](./github-header-image.png)](https://rishavchanda.io)
+
 <img align="right" alt="Coding" width="300"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sddbuq652hjmzx5i614m1k72n6wc6io7ab2ohvzq&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **whatsapp-clone**
