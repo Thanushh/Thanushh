@@ -40,4 +40,10 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thanushh&show_icons=true&theme=radical&hide=contribs,prs" alt="thanushh" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+CSS          0 secs          ████████████████████████▓   98.86 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+```
+
 <!--END_SECTION:waka-->
