@@ -2,6 +2,8 @@
 
 <img align="right" alt="Coding" width="300"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sddbuq652hjmzx5i614m1k72n6wc6io7ab2ohvzq&rid=giphy.gif&ct=g">
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thanushh.thanushh&left_color=gray&right_color=red)&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+  
 - 🔭 I’m currently working on **whatsapp-clone**
 
 - 🌱 I’m currently learning **React.js, Redux, Tailwind CSS**
@@ -9,6 +11,8 @@
 - 💬 Ask me about **React.js, MongoDB, Node.js, Express.js, Framer Motion**
 
 - 📫 How to reach me **thanush.dvlpr@gmail.com**
+
+
 
 
 <h2 align="left">Languages and Tools:</h2>
