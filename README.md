@@ -38,16 +38,3 @@
 
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thanushh&show_icons=true&theme=radical&hide=contribs,prs" alt="thanushh" /></p>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 14 November 2022 - To: 15 November 2022
-
-Total Time: 0 secs
-
-CSS          0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   98.86 %
-JavaScript   0 secs          -------------------------   01.14 %
-```
-
-<!--END_SECTION:waka-->
