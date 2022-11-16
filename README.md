@@ -32,7 +32,17 @@
     <img title="coding activity over last 7 days" align="center" width="300" src="https://wakatime.com/share/@758b9c62-1afd-488d-8a7a-4e146154bce2/95077b8f-cd42-4f50-8b22-f8c276241221.svg" alt="thanushh" />
   &emsp;&emsp;
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+From: 14 November 2022 - To: 15 November 2022
+
+Total Time: 0 secs
+
+CSS          0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   98.86 %
+JavaScript   0 secs          -------------------------   01.14 %
+```
+
+<!--END_SECTION:waka-->
 </p>
 
 ### ***`GitHub Stats:`***
