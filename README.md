@@ -27,13 +27,15 @@
 <a href="https://instagram.com/t.h.a.n.u.s.h._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.h.a.n.u.s.h._" height="30" width="40" /></a>
 </p>
 
-## ***`Coding Activity:`***
+### ***`Coding Activity(last 7 days):`***
 <p align="center">
-  <img align="center" width="400" src="https://wakatime.com/share/@758b9c62-1afd-488d-8a7a-4e146154bce2/95077b8f-cd42-4f50-8b22-f8c276241221.svg" alt="thanushh" />
-  <img align="center" width="400" src="https://wakatime.com/share/@758b9c62-1afd-488d-8a7a-4e146154bce2/ebbdb755-b88c-4ea5-a03f-65a751f0d030.svg" alt="thanushh" />
+    <img title="coding activity over last 7 days" align="center" width="300" src="https://wakatime.com/share/@758b9c62-1afd-488d-8a7a-4e146154bce2/95077b8f-cd42-4f50-8b22-f8c276241221.svg" alt="thanushh" />
+  &emsp;&emsp;
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
-## ***`GitHub Stats:`***
+### ***`GitHub Stats:`***
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanushh&show_icons=true&locale=en&layout=compact" alt="thanushh" /></p>
 
 
