@@ -31,6 +31,7 @@
 <p align="center">
     <img title="coding activity over last 7 days" align="center" width="300" src="https://wakatime.com/share/@758b9c62-1afd-488d-8a7a-4e146154bce2/95077b8f-cd42-4f50-8b22-f8c276241221.svg" alt="thanushh" />
   &emsp;&emsp;
+<p width="300"> 
   <!--START_SECTION:waka-->
 
 ```text
@@ -43,10 +44,11 @@ JavaScript   0 secs          -------------------------   01.14 %
 ```
 
 <!--END_SECTION:waka-->
+  </p>
 </p>
 
 ### ***`GitHub Stats:`***
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanushh&show_icons=true&locale=en&layout=compact" alt="thanushh" /></p>
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thanushh&show_icons=true&theme=radical&hide=contribs,prs" alt="thanushh" /></p>
+<p>&nbsp;<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=thanushh&show_icons=true&theme=radical&hide=contribs,prs" alt="thanushh" /></p>
