@@ -51,4 +51,4 @@ JavaScript   0 secs          -------------------------   01.14 %
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanushh&show_icons=true&locale=en&layout=compact" alt="thanushh" /></p>
 
 
-<p>&nbsp;<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=thanushh&show_icons=true&theme=radical&hide=contribs,prs" alt="thanushh" /></p>
+<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=thanushh&show_icons=true&theme=radical&hide=contribs,prs" alt="thanushh" /></p>
