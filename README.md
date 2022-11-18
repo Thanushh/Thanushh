@@ -1,8 +1,8 @@
 [![MasterHead](./github-header-image.png)](https://rishavchanda.io)
 
-<img align="right" alt="Coding" width="300"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sddbuq652hjmzx5i614m1k72n6wc6io7ab2ohvzq&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thanushh.thanushh&left_color=gray&right_color=red)&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thanushh.thanushh&left_color=gray&right_color=red) &nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
   
 - 🔭 I’m currently working on **whatsapp-clone**
 
@@ -30,8 +30,10 @@
 ### ***`Coding Activity(last 7 days):`***
 <p align="center">
     <img title="Coding Activity over last 7 days" align="center" width="300" src="https://wakatime.com/share/@758b9c62-1afd-488d-8a7a-4e146154bce2/95077b8f-cd42-4f50-8b22-f8c276241221.svg" alt="thanushh" />
-  &emsp;&emsp;
-    <img title="Coding Languages over last 7 days" align="center" width="300" src="https://wakatime.com/share/@Thanush/283327ff-4fc3-42ac-9da9-1839dbe12c30.svg" alt="thanushh" />
+  &emsp;
+    <img width="300" align="center" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif" alt='animation'>
+  &emsp;
+    <img title="Coding Languages over last 7 days" align="center" width="300" src="https://wakatime.com/share/@Thanush/283327ff-4fc3-42ac-9da9-1839dbe12c30.svg"            alt="thanushh" />
 </p>
 
 ### ***`GitHub Stats:`***
