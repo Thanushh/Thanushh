@@ -29,23 +29,9 @@
 
 ### ***`Coding Activity(last 7 days):`***
 <p align="center">
-    <img title="coding activity over last 7 days" align="center" width="300" src="https://wakatime.com/share/@758b9c62-1afd-488d-8a7a-4e146154bce2/95077b8f-cd42-4f50-8b22-f8c276241221.svg" alt="thanushh" />
+    <img title="Coding Activity over last 7 days" align="center" width="300" src="https://wakatime.com/share/@758b9c62-1afd-488d-8a7a-4e146154bce2/95077b8f-cd42-4f50-8b22-f8c276241221.svg" alt="thanushh" />
   &emsp;&emsp;
-<p width="300"> 
-  <!--START_SECTION:waka-->
-
-```text
-From: 14 November 2022 - To: 17 November 2022
-
-Total Time: 7 hrs 34 mins
-
-JavaScript   6 hrs 46 mins   >>>>>>>>>>>>>>>>>>>>>>---   89.44 %
-JSON         37 mins         >>-----------------------   08.20 %
-Other        4 mins          -------------------------   01.09 %
-```
-
-<!--END_SECTION:waka-->
-  </p>
+    <img title="Coding Languages over last 7 days" align="center" width="300" src="https://wakatime.com/share/@Thanush/283327ff-4fc3-42ac-9da9-1839dbe12c30.svg" alt="thanushh" />
 </p>
 
 ### ***`GitHub Stats:`***
