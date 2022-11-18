@@ -27,11 +27,10 @@
 <a href="https://instagram.com/t.h.a.n.u.s.h._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.h.a.n.u.s.h._" height="30" width="40" /></a>
 </p>
 
-### ***`Coding Activity(last 7 days):`***
+### ***`Coding Activity(last 7 days):`***<img width="100" align="center" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif" alt='animation'>
 <p align="center">
     <img title="Coding Activity over last 7 days" align="center" width="300" src="https://wakatime.com/share/@758b9c62-1afd-488d-8a7a-4e146154bce2/95077b8f-cd42-4f50-8b22-f8c276241221.svg" alt="thanushh" />
   &emsp;
-    <img width="300" align="center" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-developer.gif" alt='animation'>
   &emsp;
     <img title="Coding Languages over last 7 days" align="center" width="300" src="https://wakatime.com/share/@Thanush/283327ff-4fc3-42ac-9da9-1839dbe12c30.svg"            alt="thanushh" />
 </p>
