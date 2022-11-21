@@ -36,7 +36,7 @@
 </p>
 
 ### ***`GitHub Stats:`***
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanushh&show_icons=true&locale=en&layout=compact" alt="thanushh" /></p>
+<p><img align="left" src="https://github-readme-stats-7a0tll3mu-thanushh.vercel.app/api/top-langs?username=thanushh&show_icons=true&locale=en&layout=compact" alt="thanushh" /></p>
 
-
-<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=thanushh&show_icons=true&theme=radical&hide=contribs,prs" alt="thanushh" /></p>
+<!-- github-readme-stats.vercel.app -->
+<p>&nbsp;<img align="right" width="400" src="https://github-readme-stats-7a0tll3mu-thanushh.vercel.app/api?username=thanushh&show_icons=true&theme=radical&hide=contribs,prs" alt="thanushh" /></p>
